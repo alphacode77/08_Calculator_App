@@ -1,0 +1,60 @@
+/*Navbar */
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin-bottom:20px ;
+}
+li{
+    list-style-type: none;
+    margin-left: 10px;
+}
+
+/* coer section */
+.main{
+    background-color: rgb(179, 199, 243);
+
+}
+
+
+.container{
+    max-width: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px rgb(87, 85, 85);
+    margin: auto;
+    min-height: 50vh;
+}
+
+
+
+
+
+.button{
+    width: 60px;
+    padding: 20px;
+    margin: 0 5px;;
+    border-radius: 10px; 
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.row{
+    margin: 5px 0;
+}
+
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin-top: 30px;
+
+}
